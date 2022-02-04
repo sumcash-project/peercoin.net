@@ -64,7 +64,7 @@ function LatestNews() {
               {post.categories.map((category) => (
                 <div className="post__tag-container__tag" key={category}>
                   <a
-                    href={"https://medium.com/sumcash/tagged/" + category}
+                    href={"https://medium.com/TBD/tagged/" + category}
                     target="_blank"
                     rel="noopener noreferrer"
                   >

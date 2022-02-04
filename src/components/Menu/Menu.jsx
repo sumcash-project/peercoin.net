@@ -142,7 +142,7 @@ function Menu() {
                   </Link>
                 </li>
                 <li>
-                  <a href="https://medium.com/sumcash" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://medium.com/TBD" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/blog_green.png" alt="" />
                     {t("menuComponent.links.project.blog")}
                   </a>

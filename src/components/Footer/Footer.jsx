@@ -54,7 +54,7 @@ function Footer() {
                 <li className="footer__links__list__title">{t('footerComponent.links.project.title')}</li>
                 <li><a href="https://github.com/sumcash-project/" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.project.linkGithub')}</a></li>
                 <li><a href="/projects">{t('footerComponent.links.project.linkProjects')}</a></li>
-                <li><a href="https://medium.com/sumcash" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.project.linkBlog')}</a></li>
+                <li><a href="https://medium.com/TBD" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.project.linkBlog')}</a></li>
                 <li><a href="/foundation">{t('footerComponent.links.project.linkFoundation')}</a></li>
                 <li><Link to="/contact">{t('footerComponent.links.project.linkContact')}</Link></li>
                 <li><Link to="/privacy">{t('footerComponent.links.project.linkPrivacyPolicy')}</Link></li>
@@ -63,7 +63,7 @@ function Footer() {
                 <li className="footer__links__list__title"><a href="/resources#communities">{t('footerComponent.links.community.title')}</a></li>
                 <li><a href="https://talk.sumcash.org/" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkForum')}</a></li>
                 <li><a href="https://twitter.com/TBD" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkTwitter')}</a></li>
-                <li><a href="https://t.me/sumcash" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkTelegram')}</a></li>
+                <li><a href="https://t.me/TBD" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkTelegram')}</a></li>
                 <li><a href="https://www.facebook.com/TBD/" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkFacebook')}</a></li>
                 <li><a href="https://www.reddit.com/r/TBD" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkReddit')}</a></li>
                 <li><a href="https://discord.gg/TBD" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkDiscord')}</a></li>
