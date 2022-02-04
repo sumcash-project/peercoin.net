@@ -86,7 +86,7 @@ function Resources() {
                 {t("resourcesPage.contributeTitle")}
               </h2>
               <p>{t("resourcesPage.contributeText")}</p>
-              <a href="https://github.com/peercoin/" target="_blank" rel="noopener noreferrer" className="btn btn--green">
+              <a href="https://github.com/sumcash-project/" target="_blank" rel="noopener noreferrer" className="btn btn--green">
                 {t("resourcesPage.contributeBtn")}
               </a>
             </div>
@@ -95,7 +95,7 @@ function Resources() {
                 {t("resourcesPage.documentationTitle")}
               </h2>
               <p>{t("resourcesPage.documentationText")}</p>
-              <a href="https://docs.peercoin.net/" target="_blank" rel="noopener noreferrer" className="btn btn--green">
+              <a href="https://docs.sumcash.org/" target="_blank" rel="noopener noreferrer" className="btn btn--green">
                 {t("resourcesPage.documentationBtn")}
               </a>
             </div>
@@ -119,10 +119,10 @@ function Resources() {
                   <a href="https://easyminer.net/" target="_blank" rel="noopener noreferrer">EasyMiner</a>
                 </li>
               </ul>
-              <a href="https://docs.peercoin.net/#/mining" className="btn btn--green" target="_blank" rel="noopener noreferrer">
+              <a href="https://docs.sumcash.org/#/mining" className="btn btn--green" target="_blank" rel="noopener noreferrer">
                 {t("resourcesPage.miningBtn1")}
               </a>
-              <a href="https://www.coinwarz.com/calculators/peercoin-mining-calculator" className="btn btn--green" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.coinwarz.com/calculators/sumcash-mining-calculator" className="btn btn--green" target="_blank" rel="noopener noreferrer">
                 {t("resourcesPage.miningBtn2")}
               </a>
             </div>
@@ -135,22 +135,22 @@ function Resources() {
               <p>{t("resourcesPage.universityText2")}</p>
               <ul>
                 <li>
-                  <a href="https://university.peercoin.net/#/2-what-is-a-blockchain-" target="_blank" rel="noopener noreferrer">
+                  <a href="https://university.sumcash.org/#/2-what-is-a-blockchain-" target="_blank" rel="noopener noreferrer">
                     {t("resourcesPage.universityLink1")}
                   </a>
                 </li>
                 <li>
-                  <a href="https://university.peercoin.net/#/6-inherent-centralization-of-proof-of-work-blockchains" target="_blank" rel="noopener noreferrer">
+                  <a href="https://university.sumcash.org/#/6-inherent-centralization-of-proof-of-work-blockchains" target="_blank" rel="noopener noreferrer">
                     {t("resourcesPage.universityLink2")}
                   </a>
                 </li>
                 <li>
-                  <a href="https://university.peercoin.net/#/9-peercoin-proof-of-stake-consensus" target="_blank" rel="noopener noreferrer">
+                  <a href="https://university.sumcash.org/#/9-sumcash-proof-of-stake-consensus" target="_blank" rel="noopener noreferrer">
                     {t("resourcesPage.universityLink3")}
                   </a>
                 </li>
               </ul>
-              <a href="https://university.peercoin.net/" className="btn btn--green" target="_blank" rel="noopener noreferrer">
+              <a href="https://university.sumcash.org/" className="btn btn--green" target="_blank" rel="noopener noreferrer">
                 {t("resourcesPage.universityBtn")}
               </a>
             </div>

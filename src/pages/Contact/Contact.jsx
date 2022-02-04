@@ -26,17 +26,17 @@ function Contact() {
             <div className="col">
               <h2 className="title title--green title--left">{t('contactPage.contactUsTitle')}</h2>
               <p>{t('contactPage.contactUsText')}</p>
-              <a href="mailto:foundation@peercoin.net" className="btn btn--green">{t('contactPage.contactUsBtn')}</a>
+              <a href="mailto:foundation@sumcash.org" className="btn btn--green">{t('contactPage.contactUsBtn')}</a>
 
               <h2 className="title title--green title--left">{t('contactPage.technicalSupportTitle')}</h2>
               <p>{t('contactPage.technicalSupportText')}</p>
-              <a href="https://talk.peercoin.net/" className="btn btn--green">Peercointalk</a>
+              <a href="https://talk.sumcash.org/" className="btn btn--green">Peercointalk</a>
             </div>
             <div className="col col--small">
               <Address />
               <h2 className="title title--green title--left">{t('contactPage.documentationTitle')}</h2>
               <p>{t('contactPage.documentationText')}</p>
-              <a href="https://docs.peercoin.net/" className="btn btn--green">{t('contactPage.documentationBtn')}</a>
+              <a href="https://docs.sumcash.org/" className="btn btn--green">{t('contactPage.documentationBtn')}</a>
             </div>
           </div>
           <div className="row">

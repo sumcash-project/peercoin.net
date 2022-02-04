@@ -18,7 +18,7 @@ function Privacy() {
           <p>Last updated: 12/15/2018</p>
           <h2>Links</h2>
           <p>
-            Peercoin.net contains links to external sites. Peercoin is not
+            Sumcash.net contains links to external sites. Sumcash is not
             responsible for the content, experience, security, or privacy
             practices of these sites. We encourage users to be aware when they
             leave the site and to read the external website's privacy statements
@@ -39,7 +39,7 @@ function Privacy() {
             site.
           </p>
 
-          <h1>How Peercoin uses cookies</h1>
+          <h1>How Sumcash uses cookies</h1>
           <p>
             When you use and access the Service, we may place a number of
             cookies files in your web browser. We use cookies for the following
@@ -83,7 +83,7 @@ function Privacy() {
             </li>
           </ul>
 
-          <h1>Changes to the Peercoin Privacy Policy</h1>
+          <h1>Changes to the Sumcash Privacy Policy</h1>
           <p>
             From time to time, we may update our Privacy Policy. You will not be
             notified. As such, we encourage you to periodically review these

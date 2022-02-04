@@ -8,7 +8,7 @@ function Address() {
     <div>
       <h2 className="title title--green title--left">{t('contactPage.contactUsTitle')}</h2>
         <p>
-          <b>Stichting Peercoin Foundation</b>
+          <b>Stichting Sumcash Foundation</b>
           <br />
           President Kennedylaan 19
           <br />

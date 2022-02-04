@@ -8,22 +8,22 @@
     },
     {
       "title": "resourcesPage.toolsCharts",
-      "url": "https://www.peercoinexplorer.net/charts/",
+      "url": "https://www.sumcashexplorer.net/charts/",
       "image": "/img/icons/mint_green.png"
     },
     {
       "title": "resourcesPage.toolsMempool",
-      "url": "https://www.peercoinexplorer.net/mempool/",
+      "url": "https://www.sumcashexplorer.net/mempool/",
       "image": "/img/icons/mint_green.png"
     },
     {
       "title": "resourcesPage.toolsEnergyStatistics",
-      "url": "https://www.peercoin.site/#energytable",
+      "url": "https://www.sumcash.site/#energytable",
       "image": "/img/icons/mint_green.png"
     },
     {
       "title": "resourcesPage.toolsTestnetFaucet",
-      "url": "https://faucet.peercoinexplorer.net/",
+      "url": "https://faucet.sumcashexplorer.net/",
       "image": "/img/icons/mint_green.png"
     }
   ]

@@ -55,7 +55,7 @@ function Menu() {
             <Link to="/">
               <img
                 src="/img/logo-menu-white.svg"
-                alt="Peercoin"
+                alt="Sumcash"
                 className="menu__logo"
               />
             </Link>
@@ -78,17 +78,17 @@ function Menu() {
                 <li>
                   <a href="https://www.youtube.com/watch?v=x8KAsime9EI&list=PLvd1OhApu6fULYdoGIDBxlNl9qglo2vJG" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/youtube_green.png" alt="" />
-                    Peercoin Primer
+                    Sumcash Primer
                   </a>
                 </li>
                 <li>
                   <a href="/resources#university" className="submenu">
                     <img src="/img/icons/graduationcap.png" alt="" />
-                    {t("menuComponent.links.resources.peercoinUniversity")}
+                    {t("menuComponent.links.resources.sumcashUniversity")}
                   </a>
                 </li>
                 <li>
-                  <a href="https://docs.peercoin.net/" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://docs.sumcash.org/" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/docs_green.png" alt="" />
                     {t("menuComponent.links.resources.documentation")}
                   </a>
@@ -130,7 +130,7 @@ function Menu() {
               <img src="/img/icon-menu-arrow-down.svg" alt="" />
               <ul className="menu__main__submenu">
                 <li>
-                  <a href="https://github.com/peercoin/" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/sumcash-project/" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/github_green.png" alt="" />
                     {t("menuComponent.links.project.github")}
                   </a>
@@ -142,7 +142,7 @@ function Menu() {
                   </Link>
                 </li>
                 <li>
-                  <a href="https://medium.com/peercoin" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://medium.com/sumcash" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/blog_green.png" alt="" />
                     {t("menuComponent.links.project.blog")}
                   </a>
@@ -150,7 +150,7 @@ function Menu() {
                 <li>
                   <Link to="/foundation" className="submenu">
                     <img src="/img/icons/foundation_green.png" alt="" />
-                    {t("menuComponent.links.project.peercoinFoundation")}
+                    {t("menuComponent.links.project.sumcashFoundation")}
                   </Link>
                 </li>
                 <li>
@@ -182,7 +182,7 @@ function Menu() {
               <img src="/img/icon-menu-arrow-down.svg" alt="" />
               <ul className="menu__main__submenu">
                 <li>
-                  <a href="https://talk.peercoin.net/" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://talk.sumcash.org/" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/forum_green.png" alt="" />
                     {t("menuComponent.links.community.forum")}
                   </a>
@@ -194,19 +194,19 @@ function Menu() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://t.me/peercoin" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://t.me/sumcash" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/telegram_green.png" alt="" />
                     {t("menuComponent.links.community.telegram")}
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.facebook.com/Peercoin/" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.facebook.com/Sumcash/" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/facebook_green.png" alt="" />
                     {t("menuComponent.links.community.facebook")}
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.reddit.com/r/peercoin" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.reddit.com/r/sumcash" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/reddit_green.png" alt="" />
                     {t("menuComponent.links.community.reddit")}
                   </a>

@@ -5,19 +5,19 @@
       "os": "Windows",
       "img": "/img/icons/windows.png",
       "checksum": "d5c57b8e5bb57d5b4f51a11af26ca7a82890ed7b00380d7ea712b944412cfc06",
-      "link": "https://github.com/peercoin/peercoin/releases/download/v0.11.4ppc/peercoin-0.11.4-win64-setup-unsigned.exe"
+      "link": "https://github.com/sumcash-project/sumcash/releases/download/v0.11.4ppc/sumcash-0.11.4-win64-setup-unsigned.exe"
     },
     {
       "os": "macOS",
       "img": "/img/icons/apple.png",
       "checksum": "73e44a0dd72e14be3a6d0f62e80a866186f8243079d9da439a9776f301924d93",
-      "link": "https://github.com/peercoin/peercoin/releases/download/v0.11.4ppc/peercoin-0.11.4-osx-unsigned.dmg"
+      "link": "https://github.com/sumcash-project/sumcash/releases/download/v0.11.4ppc/sumcash-0.11.4-osx-unsigned.dmg"
     },
     {
       "os": "Linux",
       "img": "/img/icons/linux.png",
       "checksum": "b228899c21dd677d2318784ff9c47c261f687cd85ba4625e858b40004ad771f3",
-      "link": "https://github.com/peercoin/peercoin/releases/download/v0.11.4ppc/peercoin-0.11.4-x86_64-linux-gnu.tar.gz"
+      "link": "https://github.com/sumcash-project/sumcash/releases/download/v0.11.4ppc/sumcash-0.11.4-x86_64-linux-gnu.tar.gz"
     }
   ],
   "other": [
@@ -26,7 +26,7 @@
       "title": "walletPage.mobileWalletTitle",
       "wallets": [
         {
-          "url": "https://play.google.com/store/apps/details?id=com.coinerella.peercoin",
+          "url": "https://play.google.com/store/apps/details?id=com.coinerella.sumcash",
           "image": "/img/wallets/android.png",
           "title": {
             "translated": false,
@@ -35,7 +35,7 @@
           "subtitle": ""
         },
         {
-          "url": "https://f-droid.org/packages/com.coinerella.peercoin/",
+          "url": "https://f-droid.org/packages/com.coinerella.sumcash/",
           "image": "/img/wallets/fdroid.png",
           "title": {
             "translated": false,
@@ -44,7 +44,7 @@
           "subtitle": null
         },
         {
-          "url": "https://apps.apple.com/app/peercoin-wallet/id1571755170",
+          "url": "https://apps.apple.com/app/sumcash-wallet/id1571755170",
           "image": "/img/wallets/ios.png",
           "title": {
             "translated": false,
@@ -59,8 +59,8 @@
       "title": "walletPage.paperWalletTitle",
       "wallets": [
         {
-          "url": "https://paperwallet.peercoin.net/",
-          "image": "/img/explorers/peercoin_green.png",
+          "url": "https://paperwallet.sumcash.org/",
+          "image": "/img/explorers/sumcash_green.png",
           "title": {
             "translated": true,
             "text": "walletPage.paperWalletSubtitle1"
@@ -69,7 +69,7 @@
         },
         {
           "url": "https://github.com/technologiespro/paper-wallet-generator",
-          "image": "/img/explorers/peercoin_green.png",
+          "image": "/img/explorers/sumcash_green.png",
           "title": {
             "translated": false,
             "text": "paper-wallet-generator"

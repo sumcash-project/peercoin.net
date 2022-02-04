@@ -53,16 +53,16 @@ function Index() {
     <>
     <Menu />
     <div className="Index hero">
-      <img className="hero__logo" src="/img/logos/peercoin-vertical-whiteleaf-whitetext-transparent_slogan.svg" alt="Peercoin Logo" />
+      <img className="hero__logo" src="/img/logos/sumcash-vertical-whiteleaf-whitetext-transparent_slogan.svg" alt="Sumcash Logo" />
       <div className="hero__actions">
         <a href="/#getstarted" className="hero__actions__action">{t('indexPage.actions.action1')}</a>
-        <a href="https://university.peercoin.net/#/9-peercoin-proof-of-stake-consensus" className="hero__actions__action hero__actions__action--white">{t('indexPage.actions.action2')}</a>
+        <a href="https://university.sumcash.org/#/9-sumcash-proof-of-stake-consensus" className="hero__actions__action hero__actions__action--white">{t('indexPage.actions.action2')}</a>
       </div>
     </div>
     <div className="main">
       <div className="container">
         <section className="home-youtube">
-          <h1 className="title title--green">Peercoin Primer</h1>
+          <h1 className="title title--green">Sumcash Primer</h1>
           <p className="home-youtube__subtext">{t('indexPage.youtubeSection.subText')}</p>
           <YouTube
             opts={{

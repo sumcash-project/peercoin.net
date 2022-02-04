@@ -15,7 +15,7 @@ function Foundation() {
       <div className="hero hero--thin">
         <img
           src="/img/logo-foundation-white.png"
-          alt="Peercoin Foundation"
+          alt="Sumcash Foundation"
           className="logo-foundation"
         />
       </div>
@@ -37,7 +37,7 @@ function Foundation() {
               <p>{t("foundationPage.technicalSupportText")}</p>
               <p>
                 <Trans i18nKey="foundationPage.generalFundPpcAddress">
-                  General Fund - <strong>PPC</strong> Donation Address:
+                  General Fund - <strong>SUMC</strong> Donation Address:
                 </Trans>
                 <a
                   target="_blank"
@@ -67,18 +67,18 @@ function Foundation() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://opencollective.com/peercoin"
+                  href="https://opencollective.com/sumcash"
                 >
                   {" "}
-                  opencollective.com/peercoin
+                  opencollective.com/sumcash
                 </a>
               </p>
             </div>
             <div className="col col--small">
               <Address />
               <p>
-                <a href="mailto:foundation@peercoin.net">
-                  foundation@peercoin.net
+                <a href="mailto:foundation@sumcash.org">
+                  foundation@sumcash.org
                 </a>
                 <br />
                 RSIN: 858715958

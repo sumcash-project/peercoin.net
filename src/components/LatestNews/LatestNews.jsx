@@ -8,21 +8,21 @@ function LatestNews() {
 
   useEffect(() => {
     async function getData() {
-      const peercoinPosts = (
+      const sumcashPosts = (
         await fetch(
-          "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/peercoin"
+          "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/sumcash"
         ).then((res) => res.json())
       );
       
       // Temporary hack to insert Quantum Economics Report in our news feed.
       const quantumEconomicsReport = [(
         await fetch (
-          "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/quantum-economics/tagged/peercoin"
+          "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/quantum-economics/tagged/sumcash"
           ).then((res) => res.json())
       ).items[0]];
-      quantumEconomicsReport[0].title = quantumEconomicsReport[0].title === "Peercoin" ? "Quantum Economics Report" : quantumEconomicsReport[0].title;
+      quantumEconomicsReport[0].title = quantumEconomicsReport[0].title === "Sumcash" ? "Quantum Economics Report" : quantumEconomicsReport[0].title;
 
-      const posts = peercoinPosts.items.concat(quantumEconomicsReport)
+      const posts = sumcashPosts.items.concat(quantumEconomicsReport)
         .sort((a,b) => new Date(b.pubDate) - new Date(a.pubDate))
         .filter((post) => post.categories.length > 0)
         .map((post) => ({
@@ -64,7 +64,7 @@ function LatestNews() {
               {post.categories.map((category) => (
                 <div className="post__tag-container__tag" key={category}>
                   <a
-                    href={"https://medium.com/peercoin/tagged/" + category}
+                    href={"https://medium.com/sumcash/tagged/" + category}
                     target="_blank"
                     rel="noopener noreferrer"
                   >

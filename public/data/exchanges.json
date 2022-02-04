@@ -58,19 +58,19 @@
     },
     {
       "title": "anycoindirect",
-      "url": "https://anycoindirect.eu/en/buy-peercoin/",
+      "url": "https://anycoindirect.eu/en/buy-sumcash/",
       "image": "/img/exchanges/anycoin_green.png",
       "type": "resourcesPage.exchangesType1"
     },
     {
       "title": "Indacoin",
-      "url": "https://buy.peercoin.net/",
+      "url": "https://buy.sumcash.org/",
       "image": "/img/exchanges/indacoin_green.png",
       "type": "resourcesPage.exchangesType2"
     },
     {
       "title": "CoinPaprika",
-      "url": "https://coinpaprika.com/coin/ppc-peercoin/",
+      "url": "https://coinpaprika.com/coin/ppc-sumcash/",
       "image": "/img/exchanges/coinpaprika_green.png",
       "type": "resourcesPage.exchangesType3"
     },

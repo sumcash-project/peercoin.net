@@ -11,7 +11,7 @@ function NotFound() {
     <>
     <Menu />
     <div className="Index hero">
-      <img src="/img/logo-white.svg" alt="Peercoin Logo" width="220" />
+      <img src="/img/logo-white.svg" alt="Sumcash Logo" width="220" />
       <h1 className="hero__title">{t('notFoundPage.title')}</h1>
       <p className="hero__description">
       {renderHTML(t('notFoundPage.description'))}

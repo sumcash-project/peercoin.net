@@ -3,7 +3,7 @@
   "resources": [
     {
       "title": "Forum",
-      "url": "https://talk.peercoin.net/",
+      "url": "https://talk.sumcash.org/",
       "image": "/img/icons/forum_green.png"
     },
     {
@@ -13,17 +13,17 @@
     },
     {
       "title": "Facebook",
-      "url": "https://www.facebook.com/Peercoin/",
+      "url": "https://www.facebook.com/Sumcash/",
       "image": "/img/icons/facebook_green.png"
     },
     {
       "title": "Reddit",
-      "url": "https://www.reddit.com/r/peercoin",
+      "url": "https://www.reddit.com/r/sumcash",
       "image": "/img/icons/reddit_green.png"
     },
     {
       "title": "Telegram",
-      "url": "https://t.me/peercoin",
+      "url": "https://t.me/sumcash",
       "image": "/img/icons/telegram_green.png"
     },
     {
@@ -43,12 +43,12 @@
     },
     {
       "title": "GitHub",
-      "url": "https://github.com/peercoin/",
+      "url": "https://github.com/sumcash-project/",
       "image": "/img/icons/github_green.png"
     },
     {
       "title": "Blog",
-      "url": "https://medium.com/peercoin",
+      "url": "https://medium.com/sumcash",
       "image": "/img/icons/blog_green.png"
     }
   ]
