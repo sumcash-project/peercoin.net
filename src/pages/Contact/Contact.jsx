@@ -30,7 +30,7 @@ function Contact() {
 
               <h2 className="title title--green title--left">{t('contactPage.technicalSupportTitle')}</h2>
               <p>{t('contactPage.technicalSupportText')}</p>
-              <a href="https://talk.sumcash.org/" className="btn btn--green">Peercointalk</a>
+              <a href="https://talk.sumcash.org/" className="btn btn--green">Sumcashtalk</a>
             </div>
             <div className="col col--small">
               <Address />
@@ -55,8 +55,8 @@ function Contact() {
                 <h4>{t('contactPage.faq.whyFixedFeeQuestion')}</h4>
                 <p>{t('contactPage.faq.whyFixedFeeAnswer')}</p>
 
-                <h4>{t('contactPage.faq.howCanPeercoinQuestion')}</h4>
-                <p>{t('contactPage.faq.howCanPeercoinAnswer')}</p>
+                <h4>{t('contactPage.faq.howCanSumcashQuestion')}</h4>
+                <p>{t('contactPage.faq.howCanSumcashAnswer')}</p>
 
                 <h4>{t('contactPage.faq.whyNoMintingQuestion')}</h4>
                 <p>{t('contactPage.faq.whyNoMintingAnswer')}</p>

@@ -22,7 +22,7 @@ function Footer() {
             <div className="footer__twitter">
               <TwitterTimelineEmbed
                 sourceType="profile"
-                screenName="PeercoinPPC"
+                screenName="SumcashPPC"
                 options={{width: 265, height: 350}}
               />
             </div>
@@ -30,13 +30,13 @@ function Footer() {
             <nav className="footer__links">
               <ul className="footer__links__list">
                 <li className="footer__links__list__title">{t('footerComponent.links.learn.title')}</li>
-                <li><a href="https://university.sumcash.org/" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.learn.linkPeercoinUniversity')}</a></li>
+                <li><a href="https://university.sumcash.org/" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.learn.linkSumcashUniversity')}</a></li>
                 <li><a href="https://university.sumcash.org/#/2-what-is-a-blockchain-" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.learn.linkWhatIsBlockchain')}</a></li>
                 <li><a href="https://university.sumcash.org/#/6-inherent-centralization-of-proof-of-work-blockchains" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.learn.linkInherentCentralization')}</a></li>
-                <li><a href="https://university.sumcash.org/#/9-sumcash-proof-of-stake-consensus" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.learn.linkPeercoinProofOfStakeConsensus')}</a></li>
+                <li><a href="https://university.sumcash.org/#/9-sumcash-proof-of-stake-consensus" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.learn.linkSumcashProofOfStakeConsensus')}</a></li>
                 <li><a href="https://university.sumcash.org/#/10-efficient-sustainable-security" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.learn.linkEfficientSustainableSecurity')}</a></li>
-                <li><a href="https://university.sumcash.org/#/11-economics-of-sumcash" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.learn.linkEconomicsOfPeercoin')}</a></li>
-                <li><a href="https://university.sumcash.org/#/12-scalability-of-sumcash" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.learn.linkScalabilityOfPeercoin')}</a></li>
+                <li><a href="https://university.sumcash.org/#/11-economics-of-sumcash" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.learn.linkEconomicsOfSumcash')}</a></li>
+                <li><a href="https://university.sumcash.org/#/12-scalability-of-sumcash" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.learn.linkScalabilityOfSumcash')}</a></li>
                 <li><a href="https://docs.sumcash.org/#/frequently-asked-questions" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.learn.linkFAQ')}</a></li>
               </ul>
               <ul className="footer__links__list">
