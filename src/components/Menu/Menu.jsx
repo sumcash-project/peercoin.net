@@ -218,7 +218,7 @@ function Menu() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.youtube.com/channel/UC7nKLhuOgKCDzrkGhp4BPoA" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.youtube.com/watch?v=YpNs1VkWzFc" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/youtube_green.png" alt="" />
                     {t("menuComponent.links.community.youtube")}
                   </a>
