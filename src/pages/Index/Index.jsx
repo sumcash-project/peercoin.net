@@ -10,7 +10,7 @@ import Footer from '../../components/Footer/Footer';
 import Loader from '../../components/Loader/Loader';
 
 function Index() {
-  const youtubeVideos = ['x8KAsime9EI', 'L5RW1-6w7i4', 'V2469sPrz1w', 'uhVJKAvl1qA', 'HbnSlQbUf0U'];
+  const youtubeVideos = ['YpNs1VkWzFc', 'YpNs1VkWzFc', 'YpNs1VkWzFc', 'YpNs1VkWzFc', 'YpNs1VkWzFc'];
 
   const { t } = useTranslation();
   const [ cs1, setCs1 ] = useState(true);
