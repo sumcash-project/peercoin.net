@@ -3,7 +3,7 @@ Sumcash Color Codes & Fonts:
 Please use these color codes on your Sumcash related websites whenever possible.
 This will help us keep the Sumcash ecosystem and its branding and visuals consistent.
 
-Green: #3cb054
+Blue: #276BCF
 White: #ffffff
 
 The Sumcash text logo uses the following font:

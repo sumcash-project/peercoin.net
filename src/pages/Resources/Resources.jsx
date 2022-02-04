@@ -304,9 +304,9 @@ function Resources() {
             {t("resourcesPage.brandIdentityDisclaimer")}
           </p>
           <p className="subtitle subtitle--left">
-            <code>{t("resourcesPage.brandIdentityGreen")}:</code>
+            <code>{t("resourcesPage.brandIdentityBlue")}:</code>
             <br />
-            <code>#3cb054</code>
+            <code>#276BCF</code>
             <br />
             <code>RBG: 60, 176, 84</code>
             <br />
