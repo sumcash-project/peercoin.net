@@ -290,13 +290,13 @@
     "sectionWindows": {
       "title1": "Windows",
       "text1": "Ouvrir <code>{{file}}</code>",
-      "text2": "L'emplacement d'installation par défaut est <code>C:\\Program Files\\PPCoin ou C:\\Program Files\\Sumcash</code>",
+      "text2": "L'emplacement d'installation par défaut est <code>C:\\Program Files\\Sumcash ou C:\\Program Files\\Sumcash</code>",
       "text3": "Exécuter <code>sumcash-qt</code> ou <code>sumcash</code> depuis le menu démarrage ou le fichier d'installation.",
       "title2": "Daemon",
-      "text4": "Créer sumcash.conf dans <code>%APPDATA%\\PPCoin</code>",
+      "text4": "Créer sumcash.conf dans <code>%APPDATA%\\Sumcash</code>",
       "text5": "Executer <code>daemon\\sumcashd</code>",
       "text6": "Votre portefeuille est dans <code>C:\\Users\\{username}\\AppData</code> (fichier caché).",
-      "text7": "Ouvrir le dossier avec <code>Start menu -> Run...</code> (ou appuyer sur <code>Winkey-R</code>), taper <code>%APPDATA%\\PPCoin</code> dans le champ, et faites Entrée.",
+      "text7": "Ouvrir le dossier avec <code>Start menu -> Run...</code> (ou appuyer sur <code>Winkey-R</code>), taper <code>%APPDATA%\\Sumcash</code> dans le champ, et faites Entrée.",
       "text8": "Une aide supplémentaire est disponible sur <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Sumcash Documentation</a> ou en demandant sur nos <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Forums</a>."
     },
     "sectionMac": {
@@ -307,9 +307,9 @@
       "text4": "Aller dans <code className=\"green\">Applications</code> et ouvrir <code className=\"green\">Sumcash-Qt.app</code> ou <code className=\"green\">Sumcash.app</code>",
       "title2": "Daemon",
       "text5": "Décompresser <code className=\"green\">sumcashd.zip</code>",
-      "text6": "Créer <code className=\"green\">ppcoin.conf</code> dans <code className=\"green\">~/Library/Application Support/PPCoin</code>",
+      "text6": "Créer <code className=\"green\">sumcash.conf</code> dans <code className=\"green\">~/Library/Application Support/Sumcash</code>",
       "text7": "Exécuter <code className=\"green\">sumcashd</code>",
-      "text8": "Votre portefeuille est dans <code>~/Library/Application Support/PPCoin</code>. Pour ouvrir le fichier, appuyer sur <code>Command-Shift-G</code> dans la barre de recherche, insérer l'adresse, et appuyer sur Entrée.",
+      "text8": "Votre portefeuille est dans <code>~/Library/Application Support/Sumcash</code>. Pour ouvrir le fichier, appuyer sur <code>Command-Shift-G</code> dans la barre de recherche, insérer l'adresse, et appuyer sur Entrée.",
       "text9": "Une aide est disponible dans Sumcash <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Sumcash Documentation</a> ou en demandant sur nos <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Forums</a>."
     },
     "sectionLinux": {

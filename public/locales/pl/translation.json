@@ -284,13 +284,13 @@
       "sectionWindows": {
         "title1": "Windows",
         "text1": "Open <code>{{file}}</code>",
-        "text2": "Default installation directory is <code>C:\\Program Files\\PPCoin or C:\\Program Files\\Sumcash</code>",
+        "text2": "Default installation directory is <code>C:\\Program Files\\Sumcash or C:\\Program Files\\Sumcash</code>",
         "text3": "Run <code>sumcash-qt</code> or <code>sumcash</code> from the Start menu or the installation directory",
         "title2": "Daemon",
-        "text4": "Create sumcash.conf in <code>%APPDATA%\\PPCoin</code>",
+        "text4": "Create sumcash.conf in <code>%APPDATA%\\Sumcash</code>",
         "text5": "Run <code>daemon\\sumcashd</code>",
         "text6": "Your wallet is located in <code>C:\\Users\\{username}\\AppData</code> (hidden folder).",
-        "text7": "Open the folder with <code>Start menu -> Run...</code> (or press <code>Winkey-R</code>), type <code>%APPDATA%\\PPCoin</code> into the field, and press Enter.",
+        "text7": "Open the folder with <code>Start menu -> Run...</code> (or press <code>Winkey-R</code>), type <code>%APPDATA%\\Sumcash</code> into the field, and press Enter.",
         "text8": "Dodatkową pomoc można znaleźć w <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\"> Dokumentacji Sumcash </a> lub pytając na naszym <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\"> Forum </a>."
       },
       "sectionMac": {
@@ -301,9 +301,9 @@
         "text4": "Go to <code className=\"green\">Applications</code> and open <code className=\"green\">Sumcash-Qt.app</code> or <code className=\"green\">Sumcash.app</code>",
         "title2": "Daemon",
         "text5": "Unzip <code className=\"green\">sumcashd.zip</code>",
-        "text6": "Create <code className=\"green\">ppcoin.conf</code> in <code className=\"green\">~/Library/Application Support/PPCoin</code>",
+        "text6": "Create <code className=\"green\">sumcash.conf</code> in <code className=\"green\">~/Library/Application Support/Sumcash</code>",
         "text7": "Run <code className=\"green\">sumcashd</code>",
-        "text8": "Your wallet is located in <code>~/Library/Application Support/PPCoin</code>. To open the folder, press <code>Command-Shift-G</code> in Finder, insert the path, and press Enter.",
+        "text8": "Your wallet is located in <code>~/Library/Application Support/Sumcash</code>. To open the folder, press <code>Command-Shift-G</code> in Finder, insert the path, and press Enter.",
         "text9": "Dodatkową pomoc można znaleźć w <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\"> Dokumentacji Sumcash </a> lub pytając na naszym <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\"> Forum </a>."
       },
       "sectionLinux": {

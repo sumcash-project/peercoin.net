@@ -260,13 +260,13 @@
     "sectionWindows": {
       "title1": "Windows",
       "text1": "Open <code>{{file}}</code>",
-      "text2": "기본 설치 폴더는 <code>C:\\Program Files\\PPCoin 또는 C:\\Program Files\\Sumcash</code>",
+      "text2": "기본 설치 폴더는 <code>C:\\Program Files\\Sumcash 또는 C:\\Program Files\\Sumcash</code>",
       "text3": "<code>sumcash-qt</code> 또는 <code>sumcash</code> 을 시작 메뉴 또는 설치 디렉토리에서 실행하세요",
       "title2": "데몬",
-      "text4": "ppcoin.conf 를 <code>%APPDATA%PPCoin</code> 에 생성",
+      "text4": "sumcash.conf 를 <code>%APPDATA%Sumcash</code> 에 생성",
       "text5": "<code>daemon\\sumcashd</code> 실행",
       "text6": "당신의 지갑은 <code>C:Users&lt;username&gt;AppData</code> 에 있습니다(숨김 폴더)..",
-      "text7": "<code>시작 메뉴 -> 실행...</code> (또는 단축키 <code>Winkey-R</code>) 메뉴를 선택하여 <code>%APPDATA%PPCoin</code> 라고 입력 후 엔터를 클릭해서 폴더를 엽니다.",
+      "text7": "<code>시작 메뉴 -> 실행...</code> (또는 단축키 <code>Winkey-R</code>) 메뉴를 선택하여 <code>%APPDATA%Sumcash</code> 라고 입력 후 엔터를 클릭해서 폴더를 엽니다.",
       "text8": "추가적인 도움은 피어코인 <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">문서</a> 또는 <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">포럼</a> 에서 찾을 수 있습니다."
     },
     "sectionMac": {
@@ -277,9 +277,9 @@
       "text4": "<code className=\"green\">Applications</code> 으로 이동 후 <code className=\"green\">Sumcash-Qt.app</code> 또는 <code className=\"green\">Sumcash.app</code> 를 열기",
       "title2": "Daemon",
       "text5": "<code className=\"green\">sumcashd.zip</code> 압축 풀기",
-      "text6": "<code className=\"green\">ppcoin.conf</code> 파일을 <code className=\"green\">~/Library/Application Support/PPCoin</code> 에 생성",
+      "text6": "<code className=\"green\">sumcash.conf</code> 파일을 <code className=\"green\">~/Library/Application Support/Sumcash</code> 에 생성",
       "text7": "<code className=\"green\">sumcashd</code> 실행",
-      "text8": "여러분의 지갑은<code>~/Library/Application Support/PPCoin</code>. 에 있습니다. 폴더를 열기 위해, Finder에서 Command-Shift-G키를 누른 후, 경로를 넣고, Enter키를 누르세요.",
+      "text8": "여러분의 지갑은<code>~/Library/Application Support/Sumcash</code>. 에 있습니다. 폴더를 열기 위해, Finder에서 Command-Shift-G키를 누른 후, 경로를 넣고, Enter키를 누르세요.",
       "text9": "추가적인 도움은 피어코인 <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">문서</a> 또는  <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">포럼</a> 에서 찾을 수 있습니다."
     },
     "sectionLinux": {

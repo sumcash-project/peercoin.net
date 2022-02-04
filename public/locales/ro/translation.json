@@ -286,13 +286,13 @@
     "sectionWindows": {
       "title1": "Windows",
       "text1": "Rulați <code>{{file}}</code>",
-      "text2": "Instalarea implicită e in folderul <code>C:\\Program Files\\PPCoin or C:\\Program Files\\Sumcash</code>",
+      "text2": "Instalarea implicită e in folderul <code>C:\\Program Files\\Sumcash or C:\\Program Files\\Sumcash</code>",
       "text3": "Rulați <code>sumcash-qt</code> ori <code>sumcash</code> din meniul Start, sau din folderul unde s-a instalat",
       "title2": "Daemon",
-      "text4": "Creați sumcash.conf în <code>%APPDATA%\\PPCoin</code>",
+      "text4": "Creați sumcash.conf în <code>%APPDATA%\\Sumcash</code>",
       "text5": "Rulați <code>daemon\\sumcashd</code>",
       "text6": "Portmoneul dvs e în <code>C:\\Users\\{username}\\AppData</code> (hidden folder).",
-      "text7": "Deschideți folderul cu <code>Start menu -> Run...</code> (sau apăsați <code>Winkey-R</code>), înscrieți <code>%APPDATA%\\PPCoin</code> în acest câmp și apăsați Enter.",
+      "text7": "Deschideți folderul cu <code>Start menu -> Run...</code> (sau apăsați <code>Winkey-R</code>), înscrieți <code>%APPDATA%\\Sumcash</code> în acest câmp și apăsați Enter.",
       "text8": "Ajutor suplimentar puteți găsit în <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Documentația Sumcash</a> sau întrebând în <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Forumuri</a>."
     },
     "sectionMac": {
@@ -303,9 +303,9 @@
       "text4": "Mergeți la <code className=\"green\">Applicație</code> și deschideți <code className=\"green\">Sumcash-Qt.app</code> ori <code className=\"green\">Sumcash.app</code>",
       "title2": "Daemonul",
       "text5": "Dezarhivați <code className=\"green\">sumcashd.zip</code>",
-      "text6": "Creați <code className=\"green\">ppcoin.conf</code> în <code className=\"green\">~/Library/Application Support/PPCoin</code>",
+      "text6": "Creați <code className=\"green\">sumcash.conf</code> în <code className=\"green\">~/Library/Application Support/Sumcash</code>",
       "text7": "Rulați <code className=\"green\">sumcashd</code>",
-      "text8": "Portmoneul dvs e în folderul<code>~/Library/Application Support/PPCoin</code>. Pentru a deschide folderul apăsați <code>Command-Shift-G</code> în Finder, introduceți calea (path), ași apăsați Enter.",
+      "text8": "Portmoneul dvs e în folderul<code>~/Library/Application Support/Sumcash</code>. Pentru a deschide folderul apăsați <code>Command-Shift-G</code> în Finder, introduceți calea (path), ași apăsați Enter.",
       "text9": "Ajutor suplimentar puteți găsit în <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Documentația Sumcash</a> sau întrebând în <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Forumuri</a>."
     },
     "sectionLinux": {

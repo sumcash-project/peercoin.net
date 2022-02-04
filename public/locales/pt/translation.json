@@ -260,13 +260,13 @@
     "sectionWindows": {
       "title1": "Windows",
       "text1": "Abrir <code>{{file}}</code>",
-      "text2": "Local de instalação padrão é <code>C:\\Program Files\\PPCoin ou C:\\Program Files\\Sumcash</code>",
+      "text2": "Local de instalação padrão é <code>C:\\Program Files\\Sumcash ou C:\\Program Files\\Sumcash</code>",
       "text3": "Executar <code>sumcash-qt</code> ou <code>sumcash</code> do menu Iniciar ou do local de instalação",
       "title2": "Daemon",
-      "text4": "Criar sumcash.conf in <code>%APPDATA%\\PPCoin</code>",
+      "text4": "Criar sumcash.conf in <code>%APPDATA%\\Sumcash</code>",
       "text5": "Executar <code>daemon\\sumcashd</code>",
       "text6": "A sua carteira está localizada em <code>C:\\Users\\{username}\\AppData</code> (hidden folder).",
-      "text7": "Abrir o ficheiro com <code>Start menu -> Run...</code> (ou pressione <code>Winkey-R</code>), escreva <code>%APPDATA%\\PPCoin</code> no campo, e pressione Enter.",
+      "text7": "Abrir o ficheiro com <code>Start menu -> Run...</code> (ou pressione <code>Winkey-R</code>), escreva <code>%APPDATA%\\Sumcash</code> no campo, e pressione Enter.",
       "text8": "Ajuda adicional pode ser encontrada na <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Sumcash Documentation</a> ou através dos nossos <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Fórums</a>."
     },
     "sectionMac": {
@@ -277,9 +277,9 @@
       "text4": "Ir a <code className=\"green\">Applications</code> e abra <code className=\"green\">Sumcash-Qt.app</code> ou <code className=\"green\">Sumcash.app</code>",
       "title2": "Daemon",
       "text5": "Descompactar <code className=\"green\">sumcashd.zip</code>",
-      "text6": "Criar <code className=\"green\">ppcoin.conf</code> em <code className=\"green\">~/Library/Application Support/PPCoin</code>",
+      "text6": "Criar <code className=\"green\">sumcash.conf</code> em <code className=\"green\">~/Library/Application Support/Sumcash</code>",
       "text7": "Executar <code className=\"green\">sumcashd</code>",
-      "text8": "A sua carteira está localizada em <code>~/Library/Application Support/PPCoin</code>. Para abrir o ficheiro, pressione <code>Command-Shift-G</code> em Procurar, insira o caminho, e pressione Enter.",
+      "text8": "A sua carteira está localizada em <code>~/Library/Application Support/Sumcash</code>. Para abrir o ficheiro, pressione <code>Command-Shift-G</code> em Procurar, insira o caminho, e pressione Enter.",
       "text9": "Informação adicional pode ser encontrada na <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Sumcash Documentação</a> ou perguntando aos nossos  <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Fóruns</a>."
     },
     "sectionLinux": {

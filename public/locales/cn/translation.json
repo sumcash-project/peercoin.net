@@ -260,13 +260,13 @@
     "sectionWindows": {
       "title1": "Windows",
       "text1": "打开 <code>{{file}}</code>",
-      "text2": "默认安装目录为 <code>C:\\Program Files\\PPCoin 或者 C:\\Program Files\\Sumcash</code>",
+      "text2": "默认安装目录为 <code>C:\\Program Files\\Sumcash 或者 C:\\Program Files\\Sumcash</code>",
       "text3": "运行 <code>sumcash-qt</code> 或者 <code>sumcash</code> 从“开始”菜单或“安装”目录",
       "title2": "Daemon",
-      "text4": "创建 sumcash.conf 在 <code>%APPDATA%\\PPCoin</code>",
+      "text4": "创建 sumcash.conf 在 <code>%APPDATA%\\Sumcash</code>",
       "text5": "运行 <code>daemon\\sumcashd</code>",
       "text6": "你的钱包位置在 <code>C:\\Users\\{username}\\AppData</code> (隐藏文件).",
-      "text7": "打开文档 <code>开始菜单 -> 运行...</code> (或者按<code>Winkey-R</code>)), 输入 <code>%APPDATA%\\PPCoin</code> 进入字段，并按Enter键。",
+      "text7": "打开文档 <code>开始菜单 -> 运行...</code> (或者按<code>Winkey-R</code>)), 输入 <code>%APPDATA%\\Sumcash</code> 进入字段，并按Enter键。",
       "text8": "额外的帮助可以在点点币中找到 <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">文档</a> 或者通过问我们 <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">论坛。</a>."
     },
     "sectionMac": {
@@ -277,9 +277,9 @@
       "text4": "到 <code className=\"green\">应用</code> 和开放 <code className=\"green\">Sumcash-Qt.app</code> 或 <code className=\"green\">Sumcash.app</code>",
       "title2": "Daemon",
       "text5": "解压 <code className=\"green\">sumcashd.zip</code>",
-      "text6": "创建 <code className=\"green\">ppcoin.conf</code> 在 <code className=\"green\">~/Library/Application Support/PPCoin</code>",
+      "text6": "创建 <code className=\"green\">sumcash.conf</code> 在 <code className=\"green\">~/Library/Application Support/Sumcash</code>",
       "text7": "运行 <code className=\"green\">sumcashd</code>",
-      "text8": "你的钱包在 <code>~/Library/Application Support/PPCoin</code>。打开文件夹，在Finder中按<code>Command-Shift-G</code>键，插入路径，然后回车。",
+      "text8": "你的钱包在 <code>~/Library/Application Support/Sumcash</code>。打开文件夹，在Finder中按<code>Command-Shift-G</code>键，插入路径，然后回车。",
       "text9": "额外的帮助可以在点点币中找到 <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">文档</a> 或者通过问我们 <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">论坛。</a>"
     },
     "sectionLinux": {

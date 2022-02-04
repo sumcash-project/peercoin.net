@@ -281,13 +281,13 @@
     "sectionWindows": {
       "title1": "Windows",
       "text1": "Entpacken Sie <code>{{file}}</code>",
-      "text2": "Standard-Installationspfad ist <code>C:\\Program Files\\PPCoin oder C:\\Program Files\\Sumcash</code>",
+      "text2": "Standard-Installationspfad ist <code>C:\\Program Files\\Sumcash oder C:\\Program Files\\Sumcash</code>",
       "text3": "Starten Sie <code>sumcash-qt</code> oder <code>sumcash</code> vom Startmenü oder aus dem Installationsverzeichnis",
       "title2": "Daemon",
-      "text4": "Erstellen Sie sumcash.conf in <code>%APPDATA%\\PPCoin</code>",
+      "text4": "Erstellen Sie sumcash.conf in <code>%APPDATA%\\Sumcash</code>",
       "text5": "Starten Sie <code>daemon\\sumcashd</code>",
       "text6": "Ihr Wallet befndet sich in <code>C:\\Users\\{username}\\AppData</code> (verstecktes Verzeichnis).",
-      "text7": "Öffnen Sie das Verzeichnis mit <code>Startmenü -> Ausführen...</code>  (oder drücken Sie <code>Winkey-R</code>), tippen Sie <code>%APPDATA%\\PPCoin</code> in das Feld und drücken Sie Enter.",
+      "text7": "Öffnen Sie das Verzeichnis mit <code>Startmenü -> Ausführen...</code>  (oder drücken Sie <code>Winkey-R</code>), tippen Sie <code>%APPDATA%\\Sumcash</code> in das Feld und drücken Sie Enter.",
       "text8": "Weitere Hilfe können Sie finden in der <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Sumcash Dokumentation</a> oder indem Sie in unserem <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Forums</a> fragen.."
     },
     "sectionMac": {
@@ -298,9 +298,9 @@
       "text4": "Gehen Sie zu <code className=\"green\">Applications</code> und öffnen Sie <code className=\"green\">Sumcash-Qt.app</code> oder <code className=\"green\">Sumcash.app</code>",
       "title2": "Daemon",
       "text5": "Entpacken Sie <code className=\"green\">sumcashd.zip</code>",
-      "text6": "Erstellen Sie <code className=\"green\">ppcoin.conf</code> in <code className=\"green\">~/Library/Application Support/PPCoin</code>",
+      "text6": "Erstellen Sie <code className=\"green\">sumcash.conf</code> in <code className=\"green\">~/Library/Application Support/Sumcash</code>",
       "text7": "Starte <code className=\"green\">sumcashd</code>",
-      "text8": "Ihr Wallet befindet sich in <code>~/Library/Application Support/PPCoin</code>. Öffnen Sie das Verzeichnis, drücken Sie STRG+Shift+G im Suchfeld, fügen Sie den Pfad ein, und drücken Sie Enter.",
+      "text8": "Ihr Wallet befindet sich in <code>~/Library/Application Support/Sumcash</code>. Öffnen Sie das Verzeichnis, drücken Sie STRG+Shift+G im Suchfeld, fügen Sie den Pfad ein, und drücken Sie Enter.",
       "text9": "Weitere Hilfe können Sie finden in der <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Sumcash Dokumentation</a> oder indem Sie in unserem <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Forums</a> fragen."
     },
     "sectionLinux": {

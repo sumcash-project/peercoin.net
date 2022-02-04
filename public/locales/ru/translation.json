@@ -286,13 +286,13 @@
     "sectionWindows": {
       "title1": "Windows",
       "text1": "Запустите <code>{{file}}</code>",
-      "text2": "Установка по умолчанию находится в папке <code>C:\\Program Files\\PPCoin or C:\\Program Files\\Sumcash</code>",
+      "text2": "Установка по умолчанию находится в папке <code>C:\\Program Files\\Sumcash or C:\\Program Files\\Sumcash</code>",
       "text3": "Запустите <code>sumcash-qt</code> или <code>sumcash</code> из меню Пуск или из папки, в которую он был установлен.",
       "title2": "Daemon",
-      "text4": "Создайте sumcash.conf в <code>%APPDATA%\\PPCoin</code>",
+      "text4": "Создайте sumcash.conf в <code>%APPDATA%\\Sumcash</code>",
       "text5": "Запустите <code>daemon\\sumcashd</code>",
       "text6": "Ваш кошелек в <code>C:\\Users\\{username}\\AppData</code> (hidden folder).",
-      "text7": "Откройте папку <code>Start menu -> Run...</code> (или нажмите <code>Winkey-R</code>), запишите: <code>%APPDATA%\\PPCoin</code> в этом поле и нажмите Enter.",
+      "text7": "Откройте папку <code>Start menu -> Run...</code> (или нажмите <code>Winkey-R</code>), запишите: <code>%APPDATA%\\Sumcash</code> в этом поле и нажмите Enter.",
       "text8": "Дополнительную помощь можно найти в <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Документации Sumcash</a> или спрашивая в <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Форуме</a>."
     },
     "sectionMac": {
@@ -303,9 +303,9 @@
       "text4": "Mergeți la <code className=\"green\">Applicație</code> și deschideți <code className=\"green\">Sumcash-Qt.app</code> ori <code className=\"green\">Sumcash.app</code>",
       "title2": "Daemon",
       "text5": "Распакуйте <code className=\"green\">sumcashd.zip</code>",
-      "text6": "Создайте <code className=\"green\">ppcoin.conf</code> в <code className=\"green\">~/Library/Application Support/PPCoin</code>",
+      "text6": "Создайте <code className=\"green\">sumcash.conf</code> в <code className=\"green\">~/Library/Application Support/Sumcash</code>",
       "text7": "Запустите <code className=\"green\">sumcashd</code>",
-      "text8": "Ваш кошелек находится в папке <code>~/Library/Application Support/PPCoin</code>. Чтобы открыть папку, нажмите <code>Command-Shift-G</code> в Finder, введите путь (path), и нажмите Enter.",
+      "text8": "Ваш кошелек находится в папке <code>~/Library/Application Support/Sumcash</code>. Чтобы открыть папку, нажмите <code>Command-Shift-G</code> в Finder, введите путь (path), и нажмите Enter.",
       "text9": "Дополнительную помощь можно найти в <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Документации Sumcash</a> или спрашивая в <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Форуме</a>."
     },
     "sectionLinux": {

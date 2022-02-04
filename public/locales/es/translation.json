@@ -260,13 +260,13 @@
     "sectionWindows": {
       "title1": "Windows",
       "text1": "Open <code>{{file}}</code>",
-      "text2": "El directorio de instalación predeterminado es <code>C:\\Program Files\\PPCoin or C:\\Program Files\\Sumcash</code>",
+      "text2": "El directorio de instalación predeterminado es <code>C:\\Program Files\\Sumcash or C:\\Program Files\\Sumcash</code>",
       "text3": "Correr <code>sumcash-qt</code> o <code>sumcash</code> desde el menú Inicio o desde el directorio de instalación.",
       "title2": "Daemon",
-      "text4": "Create sumcash.conf in <code>%APPDATA%\\PPCoin</code>",
+      "text4": "Create sumcash.conf in <code>%APPDATA%\\Sumcash</code>",
       "text5": "Correr <code>daemon\\sumcashd</code>",
       "text6": "Su billetera se encuentra en <code>C:\\Users\\{username}\\AppData</code> (carpeta oculta).",
-      "text7": "Abra la carpeta co <code>Menú de inicio -> Ejecutar ...</code> (o presione <code>Winkey-R</code>), escriba <code>%APPDATA%\\PPCoin</code> en el campo, y presione Enter.",
+      "text7": "Abra la carpeta co <code>Menú de inicio -> Ejecutar ...</code> (o presione <code>Winkey-R</code>), escriba <code>%APPDATA%\\Sumcash</code> en el campo, y presione Enter.",
       "text8": "Ayuda adicional se puede encontrar de sumcash en su <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Sumcash Documentation</a> o preguntando por nuestro <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">foros</a>."
     },
     "sectionMac": {
@@ -277,9 +277,9 @@
       "text4": "Arranque en <code className=\"green\">Aplicaciones</code> y abra <code className=\"green\">Sumcash-Qt.app</code> or <code className=\"green\">Sumcash.app</code>",
       "title2": "Daemon",
       "text5": "Unzip <code className=\"green\">sumcashd.zip</code>",
-      "text6": "Create <code className=\"green\">ppcoin.conf</code> in <code className=\"green\">~/Library/Application Support/PPCoin</code>",
+      "text6": "Create <code className=\"green\">sumcash.conf</code> in <code className=\"green\">~/Library/Application Support/Sumcash</code>",
       "text7": "Correr <code className=\"green\">sumcashd</code>",
-      "text8": "Su billetera se encuentra en 1 <code>~/Library/Application Support/PPCoin</code>. Para abrir la carpeta, presione <code>Command-Shift-G</code> en el Finder, inserte la ruta y presione Enter.",
+      "text8": "Su billetera se encuentra en 1 <code>~/Library/Application Support/Sumcash</code>. Para abrir la carpeta, presione <code>Command-Shift-G</code> en el Finder, inserte la ruta y presione Enter.",
       "text9": "Ayuda adicional se puede encontrar en el <a href=\"https://docs.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Sumcash Documentación</a> o preguntando por nuestro <a href=\"https://talk.sumcash.org/\" target=\"_blank\" rel=\"noopener noreferrer\">foros</a>."
     },
     "sectionLinux": {
