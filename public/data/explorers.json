@@ -11,7 +11,7 @@
         },
         {
           "title": "PeerExplorer",
-          "url": "https://blockbook.sumcash.org/",
+          "url": "https://explorer.sumcash.org/",
           "image": "/img/explorers/sumcash_green.png"
         }
       ]
@@ -26,7 +26,7 @@
         },
         {
           "title": "PeerExplorer",
-          "url": "https://tblockbook.sumcash.org/",
+          "url": "https://texplorer.sumcash.org/",
           "image": "/img/explorers/sumcash_green.png"
         }
       ]
