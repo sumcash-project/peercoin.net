@@ -180,9 +180,9 @@
       "whyNoMintingQuestion": "I just moved SUMC to my wallet and it says I have a zero percent chance of minting in the next 30 days. Why is that?",
       "whyNoMintingAnswer": "Sumcash transactions must mature 30 days or roughly 4320 blocks before they can become eligible for minting. This number is updated roughly every six hours. Once the 30 day period passes, your coins will become eligible and the minting probability should adjust accordingly.",
       "howManyConfirmationsQuestion": "How many confirmations are required on the Sumcash network for a transaction?",
-      "howManyConfirmationsAnswer": "Six confirmations are required for a transaction to be verified. Each block takes about 10 minutes.",
+      "howManyConfirmationsAnswer": "Six confirmations are required for a transaction to be verified. Each block takes about 1 minute.",
       "whyNotAvailableMintinQuestion": "I just minted some coins but it says they are unavailable at the moment. Why is that?",
-      "whyNotAvailableMintinAnswer": "Once a transaction mints, it takes 520 confirmations before these coins become unlocked. This is done to prevent spoofed minting. Each block on the Sumcash network takes about 10 minutes, so it takes 5,200 minutes or around 3.6 days for the minted coins to become available."
+      "whyNotAvailableMintinAnswer": "Once a transaction mints, it takes 520 confirmations before these coins become unlocked. This is done to prevent spoofed minting. Each block on the Sumcash network takes about 1 minute, so it takes 5,200 minutes or around 3.6 days for the minted coins to become available."
     }
   },
   "projectsPage": {

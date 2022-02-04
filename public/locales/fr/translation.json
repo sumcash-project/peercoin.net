@@ -180,9 +180,9 @@
       "whyNoMintingQuestion": "Je viens de mettre des SUMC dans mon portefeuille et il y a 0% de frappe pour les 30 prochains jours. Pourquoi?",
       "whyNoMintingAnswer": "Les transaction Sumcash doivent mûrir pendant 30 jours ou approximativement 4320 blocs avant d'être éligible pour la frappe. Ce nombre est mis à jour environ toutes les 6 heures. Une fois les 30 jours passés, les pièces vont être éligibles et la probabilité de frappe va s'ajuster en conséquence.",
       "howManyConfirmationsQuestion": "Combien de confirmations sont nécessaires sur le réseau Sumcash pour une transaction?",
-      "howManyConfirmationsAnswer": "Six confirmations sont nécessaires pour vérifier une transaction. Chaque bloc prend 10 minutes.",
+      "howManyConfirmationsAnswer": "Six confirmations sont nécessaires pour vérifier une transaction. Chaque bloc prend 1 minute.",
       "whyNotAvailableMintinQuestion": "Je viens de frapper quelques pièces mais il est indiqué quelles sont indisponibles pour le moment. Pourquoi?",
-      "whyNotAvailableMintinAnswer": "Une fois la frappe reçue, il faut 520 confirmations avant que ces pièces ne soient débloquées. Ceci est fait pour empêcher la frappe frauduleuse. Chaque bloc sur le réseau Sumcash prend environ 10 minutes, donc il faut 5.200 minutes ou environ 3,6 jours pour que les pièces frappées soient disponibles."
+      "whyNotAvailableMintinAnswer": "Une fois la frappe reçue, il faut 520 confirmations avant que ces pièces ne soient débloquées. Ceci est fait pour empêcher la frappe frauduleuse. Chaque bloc sur le réseau Sumcash prend environ 1 minute, donc il faut 5.200 minutes ou environ 3,6 jours pour que les pièces frappées soient disponibles."
     }
   },
   "projectsPage": {
