@@ -165,7 +165,7 @@
     "faqTitle": "Întrebări frecvente",
     "faq": {
       "howOldQuestion": "De când este proiectul Sumcash?",
-      "howOldAnswer": "Blockchain-ul Sumcash a început pe 19 august 2012 la 18:00:00 UTC. Nu a existat nicio monetă preminată, iar lansarea proiectului a fost anunțată cu nouă zile înainte. Puteți citi anunțul original aici: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
+      "howOldAnswer": "Blockchain-ul Sumcash a început pe 19 august 2019 la 18:00:00 UTC. Nu a existat nicio monetă preminată, iar lansarea proiectului a fost anunțată cu nouă zile înainte. Puteți citi anunțul original aici: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
       "howCanIMineQuestion": "Cum pot mina Sumcash?",
       "howCanIMineAnswer": "Sumcash folosește funcția criptografică de hash - SHA256. Orice hardware care poate extrage Bitcoin, poate fi folosit pentru extragerea Sumcash.",
       "whyMintingQuestion": "De ce rentabilitatea e de 1%? De ce nu există o limită a numărului total de SUMC? Nu descalifică acest lucru Sumcash ca monedă deflaționistă?",
@@ -345,7 +345,7 @@
       "btnVideo5": "Part 5: Misiune"
     },
     "efficientEnergyTitle": "Securitate Eficientă",
-    "efficientEnergyText1": "Sumcash (SUMC) a apărut pentru prima dată în 2012, devenind unul dintre primele blockchain-uri. Inovația principală a Sumcash-ului este inventarea Dovezii de Timp (PoS), un protocol de consens alternativ la Dovada de Muncă (PoW) a Bitcoin-ului.",
+    "efficientEnergyText1": "Sumcash (SUMC) a apărut pentru prima dată în 2019, devenind unul dintre primele blockchain-uri. Inovația principală a Sumcash-ului este inventarea Dovezii de Timp (PoS), un protocol de consens alternativ la Dovada de Muncă (PoW) a Bitcoin-ului.",
     "efficientEnergyText2": "Blockchain-urile cu Dovadă a Muncii sunt securizate dovedind consumul unei resurse limitate și costisitoare: electricitatea. Dovada Mizei înlocuiește acest protocol de securitate scump, prin utilizarea unei resurse alternative: Timpul.",
     "efficientEnergyText3": "Datorită naturii eficiente din punct de vedere al costurilor a regulilor consensuale bazate pe Dovada Mizei, Sumcash este capabil să permită oricărui computer conectat la rețea să participe la procesul de securitate al blockchain-ului. Această eficiență întărește Sumcash prin creșterea numărului de furnizori de securitate și asigurarea faptului că securitatea poate fi susținută pe termen lung.",
     "userGovernanceTitle": "Guvernarea Utilizatorilor",

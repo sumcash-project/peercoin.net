@@ -76,7 +76,7 @@ function Menu() {
               <img src="/img/icon-menu-arrow-down.svg" alt="" />
               <ul className="menu__main__submenu">
                 <li>
-                  <a href="https://www.youtube.com/watch?v=x8KAsime9EI&list=PLvd1OhApu6fULYdoGIDBxlNl9qglo2vJG" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.youtube.com/watch?v=YpNs1VkWzFc" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/youtube_green.png" alt="" />
                     Sumcash Primer
                   </a>
@@ -188,43 +188,43 @@ function Menu() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/PeercoinPPC" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://twitter.com/TBD" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/twitter_green.png" alt="" />
                     {t("menuComponent.links.community.twitter")}
                   </a>
                 </li>
                 <li>
-                  <a href="https://t.me/sumcash" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://t.me/TBD" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/telegram_green.png" alt="" />
                     {t("menuComponent.links.community.telegram")}
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.facebook.com/Sumcash/" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.facebook.com/TBD/" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/facebook_green.png" alt="" />
                     {t("menuComponent.links.community.facebook")}
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.reddit.com/r/sumcash" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.reddit.com/r/TBD" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/reddit_green.png" alt="" />
                     {t("menuComponent.links.community.reddit")}
                   </a>
                 </li>
                 <li>
-                  <a href="https://discord.gg/XPxfwtG" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://discord.gg/TBD" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/discord_green.png" alt="" />
                     {t("menuComponent.links.community.discord")}
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.youtube.com/user/PeerCoin" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.youtube.com/channel/UC7nKLhuOgKCDzrkGhp4BPoA" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/youtube_green.png" alt="" />
                     {t("menuComponent.links.community.youtube")}
                   </a>
                 </li>
                 <li>
-                  <a href="https://bitcointalk.org/index.php?topic=101820.0" className="submenu" target="_blank" rel="noopener noreferrer">
+                  <a href="https://bitcointalk.org/index.php?topic=TBD" className="submenu" target="_blank" rel="noopener noreferrer">
                     <img src="/img/icons/bitcoinchat_green.png" alt="" />
                     {t("menuComponent.links.community.bitcointalk")}
                   </a>

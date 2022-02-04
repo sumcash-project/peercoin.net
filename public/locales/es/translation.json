@@ -142,7 +142,7 @@
     "faqTitle": "Preguntas Más Frecuentes",
     "faq": {
       "howOldQuestion": "¿Qué edad tiene el proyecto Sumcash?",
-      "howOldAnswer": "La cadena de Sumcash comenzó el 19 de agosto de 2012 a las 18:00:00 UTC. No hubo premine y el lanzamiento del proyecto se anunció nueve días antes de su lanzamiento. Puedes leer el hilo original del anuncio aquí: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
+      "howOldAnswer": "La cadena de Sumcash comenzó el 19 de agosto de 2019 a las 18:00:00 UTC. No hubo premine y el lanzamiento del proyecto se anunció nueve días antes de su lanzamiento. Puedes leer el hilo original del anuncio aquí: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
       "howCanIMineQuestion": "¿Cómo puedo minar Sumcash?",
       "howCanIMineAnswer": "Sumcash utiliza la función criptográfica hash SHA256. Cualquier hardware que pueda efectivamente explotar Bitcoin puede usarse para extraer Sumcash.",
       "whyMintingQuestion": "¿Por qué un 1% de ganancia de acuñación al apostar? ¿Por qué no hay un límite estricto en el número total de SUMC? ¿No descalifica esto a Sumcash como moneda deflacionaria?",
@@ -310,7 +310,7 @@
       "action2": "¿Qué es Sumcash?"
     },
     "efficientEnergyTitle": "Seguridad eficiente",
-    "efficientEnergyText1": "Sumcash (SUMC) se lanzó por primera vez en 2012, lo que lo convierte en uno de los primeros Cadenas de bloques pioneras. La innovación clave de Sumcash es su invención a proof-of-stake, un protocolo de consenso alternativo a la proof-of-work de Bitcoin",
+    "efficientEnergyText1": "Sumcash (SUMC) se lanzó por primera vez en 2019, lo que lo convierte en uno de los primeros Cadenas de bloques pioneras. La innovación clave de Sumcash es su invención a proof-of-stake, un protocolo de consenso alternativo a la proof-of-work de Bitcoin",
     "efficientEnergyText2": "Las cadenas de bloques Proof-of-work se aseguran demostrando que el consumo es costoso Recurso limitado: electricidad. La Proof-of-stake reemplaza esta seguridad costosa protocolo utilizando un recurso escaso alternativo: el tiempo.",
     "efficientEnergyText3": "Debido a la naturaleza rentable de las reglas de consenso basadas en el tiempo de la Proof-of-stake, Sumcash es capaz de permitir que cualquier computadora conectada a la red participe en el proceso de seguridad de blockchain. Esta eficiencia fortalece a Sumcash al crecer. La cantidad de proveedores de seguridad y garantizar que la seguridad pueda mantenerse a largo plazo.",
     "userGovernanceTitle": "Gobernanza del usuario",

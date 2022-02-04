@@ -142,7 +142,7 @@
     "faqTitle": "자주 묻는 질문",
     "faq": {
       "howOldQuestion": "피어코인 프로젝트는 얼마나 오래되었나요?",
-      "howOldAnswer": "피어코인 체인은 2012년 8월 19일 18:00:00 UTC에서 처음 시작되었습니다. 사전 채굴은 없었고 프로젝트 런칭은 그것이 시작되기 9일 전에 발표되었습니다. 발표 원문 스레드를 여기에서 읽을 수 있습니다: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
+      "howOldAnswer": "피어코인 체인은 2019년 8월 19일 18:00:00 UTC에서 처음 시작되었습니다. 사전 채굴은 없었고 프로젝트 런칭은 그것이 시작되기 9일 전에 발표되었습니다. 발표 원문 스레드를 여기에서 읽을 수 있습니다: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
       "howCanIMineQuestion": "어떻게 피어코인을 채굴할 수 있나요?",
       "howCanIMineAnswer": "피어코인은 SHA256 암호화 해시 함수를 사용합니다. 비트코인을 채굴할 수 있는 모든 하드웨어는 피어코인 채굴에도 사용될 수 있습니다.",
       "whyMintingQuestion": "왜 보유분의 1% 발행 반환이 있나요? SUMC의 총 수에는 왜 제한이 없습니까? 이것이 피어코인을 디플레이션 통화로써 부적합하게 하지 않나요?",
@@ -306,7 +306,7 @@
       "action2": "피어코인이란 무엇인가요?"
     },
     "efficientEnergyTitle": "효율적인 보안",
-    "efficientEnergyText1": "피어코인(Sumcash, SUMC)은 2012년 처음 온라인에 출시된 초기 블록체인 분야의 선구자 중 하나입니다. 피어코인의 가장 큰 혁신은 비트코인의 합의 프로토콜인 작업 증명의 대안인 지분 증명의 창시입니다.",
+    "efficientEnergyText1": "피어코인(Sumcash, SUMC)은 2019년 처음 온라인에 출시된 초기 블록체인 분야의 선구자 중 하나입니다. 피어코인의 가장 큰 혁신은 비트코인의 합의 프로토콜인 작업 증명의 대안인 지분 증명의 창시입니다.",
     "efficientEnergyText2": "작업 증명 블록체인은 제한된 자원이면서 많은 비용을 소모하게 되는 전력의 소비를 증명함으로써 보호됩니다. 지분 증명은 부족한 자원인 시간을 활용하여 기존의 값비싼 보안 프로토콜을 대체합니다.",
     "efficientEnergyText3": "피어코인은 지분 증명 시간 기반 합의 규칙의 비용 효율적인 특징으로 인해 네트워크에 연결된 모든 컴퓨터가 블록체인 보안 프로세스에 참여할 수 있습니다. 이러한 효율성은 보안 제공자 수를 늘리고 오랜 기간동안 보안을 유지함으로써 피어코인을 보다 강하게 합니다.",
     "userGovernanceTitle": "사용자 거버넌스",

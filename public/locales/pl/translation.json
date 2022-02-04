@@ -165,7 +165,7 @@
       "faqTitle": "Najczęściej Zadawane Pytania",
       "faq": {
         "howOldQuestion": "Ile lat ma projekt Sumcash?",
-        "howOldAnswer": "Sieć Sumcash rozpoczęła się 19 sierpnia 2012 o godzinie 18:00:00 UTC. Nie było żadnych warunków wstępnych, a rozpoczęcie projektu ogłoszono dziewięć dni przed jego uruchomieniem. Możesz przeczytać oryginalny wątek z ogłoszeniem tutaj: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
+        "howOldAnswer": "Sieć Sumcash rozpoczęła się 19 sierpnia 2019 o godzinie 18:00:00 UTC. Nie było żadnych warunków wstępnych, a rozpoczęcie projektu ogłoszono dziewięć dni przed jego uruchomieniem. Możesz przeczytać oryginalny wątek z ogłoszeniem tutaj: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
         "howCanIMineQuestion": "Jak mogę wydobywać Sumcash?",
         "howCanIMineAnswer": "Sumcash używa kryptograficznej funkcji skrótu SHA256. Każdy sprzęt, który może efektywnie wydobywać Bitcoin, może być użyty do wydobywania Sumcash.",
         "whyMintingQuestion": "Dlaczego 1% zysku ze stakingu? Dlaczego nie ma sztywnego limitu całkowitej liczby SUMC? Czy to nie dyskwalifikuje Sumcash jako waluty deflacyjnej?",
@@ -342,7 +342,7 @@
         "btnVideo5": "Część 5: Misja"
       },
       "efficientEnergyTitle": "Skuteczne bezpieczeństwo",
-      "efficientEnergyText1": "Sumcash (SUMC) pojawił się po raz pierwszy w 2012 roku, co czyni go jednym z najwcześniejszych pionierskich łańcuchów bloków. Kluczową innowacją Sumcash jest wynalezienie proof-of-rate, alternatywnego protokołu konsensusu do proof-of-work Bitcoina.",
+      "efficientEnergyText1": "Sumcash (SUMC) pojawił się po raz pierwszy w 2019 roku, co czyni go jednym z najwcześniejszych pionierskich łańcuchów bloków. Kluczową innowacją Sumcash jest wynalezienie proof-of-rate, alternatywnego protokołu konsensusu do proof-of-work Bitcoina.",
       "efficientEnergyText2": "Łańcuchy bloków typu proof of work są zabezpieczone poprzez udowodnienie zużycia kosztownego, ograniczonego zasobu: energii elektrycznej. Proof-of-hill zastępuje ten kosztowny protokół bezpieczeństwa, wykorzystując alternatywny rzadki zasób: czas.",
       "efficientEnergyText3": "Ze względu na opłacalny charakter reguł konsensusu opartych na czasie, Sumcash jest w stanie pozwolić każdemu komputerowi podłączonemu do sieci na udział w procesie bezpieczeństwa łańcucha bloków. Ta efektywność wzmacnia Sumcash, zwiększając liczbę dostawców zabezpieczeń i zapewniając długoterminowe bezpieczeństwo.",
       "userGovernanceTitle": "Zarządzanie użytkownikami",

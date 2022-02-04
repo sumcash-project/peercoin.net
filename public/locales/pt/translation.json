@@ -142,7 +142,7 @@
     "faqTitle": "Perguntas Frequentes",
     "faq": {
       "howOldQuestion": "Que idade tem o projeto Sumcash?",
-      "howOldAnswer": "A chain Sumcash começou a 19 de Agosto de 2012, às 18:00:00 UTC. Não existiu mining prévio e o lançamento do projeto foi anunciado 9 dias antes do seu inicio. Pode consultar o anúncio original aqui: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
+      "howOldAnswer": "A chain Sumcash começou a 19 de Agosto de 2019, às 18:00:00 UTC. Não existiu mining prévio e o lançamento do projeto foi anunciado 9 dias antes do seu inicio. Pode consultar o anúncio original aqui: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
       "howCanIMineQuestion": "Como posso minar Sumcash?",
       "howCanIMineAnswer": "O Sumcash utiliza a função hash criptográfica SHA256. Qualquer hardware que mine Bitcoin efetivamente pode ser utilizado para minar Sumcash.",
       "whyMintingQuestion": "Porquê um retorno de 1% de minting? Porque é que não existe um limite do número total de SUMC? Isto não desqualifica o Sumcash como moeda deflacionária?",
@@ -306,7 +306,7 @@
       "action2": "O que é o Sumcash?"
     },
     "efficientEnergyTitle": "Segurança Eficiente",
-    "efficientEnergyText1": "O Sumcash (SUMC) iniciou em 2012, tornando-se um dos pioneiros em blockchains. A principal inovação do Sumcash é a sua invenção do \"proof-of-stake\", um protocolo de consenso alternativo ao \"proof-of-work\" do Bitcoin.",
+    "efficientEnergyText1": "O Sumcash (SUMC) iniciou em 2019, tornando-se um dos pioneiros em blockchains. A principal inovação do Sumcash é a sua invenção do \"proof-of-stake\", um protocolo de consenso alternativo ao \"proof-of-work\" do Bitcoin.",
     "efficientEnergyText2": "As blockchains \"proof-of-work\" estão asseguradas pelo consumo de um recurso limitado dispendioso: eletricidade. \"Proof-of-stake\" substitui o protocolo de segurança dispendioso por um recurso alternativos escasso: tempo.",
     "efficientEnergyText3": "Devido à natureza da eficiência influenciada pelo custo das regras de consenso, o Sumcash é capaz de permitir qualquer computador conetado à rede a participar no processo de segurança da blockchain. Esta eficiência fortalece o Sumcash através do crescimento do número de fornecedores de segurança e garantir que a segurança seja a longo prazo",
     "userGovernanceTitle": "Administração de Utilizador",

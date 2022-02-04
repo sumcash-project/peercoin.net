@@ -62,13 +62,13 @@ function Footer() {
               <ul className="footer__links__list">
                 <li className="footer__links__list__title"><a href="/resources#communities">{t('footerComponent.links.community.title')}</a></li>
                 <li><a href="https://talk.sumcash.org/" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkForum')}</a></li>
-                <li><a href="https://twitter.com/PeercoinPPC" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkTwitter')}</a></li>
+                <li><a href="https://twitter.com/TBD" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkTwitter')}</a></li>
                 <li><a href="https://t.me/sumcash" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkTelegram')}</a></li>
-                <li><a href="https://www.facebook.com/Sumcash/" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkFacebook')}</a></li>
-                <li><a href="https://www.reddit.com/r/sumcash" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkReddit')}</a></li>
-                <li><a href="https://discord.gg/XPxfwtG" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkDiscord')}</a></li>
-                <li><a href="https://www.youtube.com/user/PeerCoin" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkYoutube')}</a></li>
-                <li><a href="https://bitcointalk.org/index.php?topic=101820.0" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkBitcointalk')}</a></li>
+                <li><a href="https://www.facebook.com/TBD/" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkFacebook')}</a></li>
+                <li><a href="https://www.reddit.com/r/TBD" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkReddit')}</a></li>
+                <li><a href="https://discord.gg/TBD" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkDiscord')}</a></li>
+                <li><a href="https://www.youtube.com/user/TBD" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkYoutube')}</a></li>
+                <li><a href="https://bitcointalk.org/index.php?topic=TBD" target="_blank" rel="noopener noreferrer">{t('footerComponent.links.community.linkBitcointalk')}</a></li>
               </ul>
             </nav>
           </footer>

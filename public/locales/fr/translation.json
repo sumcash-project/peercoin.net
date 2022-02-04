@@ -168,7 +168,7 @@
     "faqTitle": "Foire Aux Questions",
     "faq": {
       "howOldQuestion": "Depuis quand le projet Sumcash existe?",
-      "howOldAnswer": "La Blockchain du Sumcash à commencé le 19 Août 2012 à 18h00 UTC. Il n'y avait pas de préminage et le lancement à été annoncé neuf jours avant. Vous pouvez lire l'annonce originale ici: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
+      "howOldAnswer": "La Blockchain du Sumcash à commencé le 19 Août 2019 à 18h00 UTC. Il n'y avait pas de préminage et le lancement à été annoncé neuf jours avant. Vous pouvez lire l'annonce originale ici: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
       "howCanIMineQuestion": "Comment miner du Sumcash?",
       "howCanIMineAnswer": "Sumcash utilise l'algorythme SHA256. Tout matériel informatique pouvant miner du Bitcoin peuvent miner du Sumcash",
       "whyMintingQuestion": "Pourquoi un intérêt de 1% sur la frappe? Pourquoi y'a t'il une limite sur le nombre total de SUMC? Cela ne disqualifie-t-il pas Sumcash en tant que monnaie déflationniste?",
@@ -356,7 +356,7 @@
       "btnVideo5": "Part 5: Mission"
     },
     "efficientEnergyTitle": "Sécurité efficace",
-    "efficientEnergyText1": "Sumcash (SUMC) est arrivé en ligne en 2012, faisant d'elle une des premières Blockchain pionnières. L'innovation clé de Sumcash est son invention de la Preuve d'Enjeu (Proof-Of-Stake), une alternative au protocole de consensus de la Preuve de Travail (Proof-Of-Work) du Bitcoin.",
+    "efficientEnergyText1": "Sumcash (SUMC) est arrivé en ligne en 2019, faisant d'elle une des premières Blockchain pionnières. L'innovation clé de Sumcash est son invention de la Preuve d'Enjeu (Proof-Of-Stake), une alternative au protocole de consensus de la Preuve de Travail (Proof-Of-Work) du Bitcoin.",
     "efficientEnergyText2": "Les Blockchains basées sur la preuve de travail sont sécurisés en consommant une ressource coûteuse limitée: l'électricité. La preuve d'enjeu remplace ce protocole de sécurité coûteux en utilisant une ressource alternative rare: le temps.",
     "efficientEnergyText3": "En raison de sa nature efficace de Preuve d'Enjeu basée sur le temps et les règles de son consensus, Sumcash est capable d'autoriser n'importe quel ordinateur connecté au réseau pour participer au process de sécurité de la Blockchain. Cette efficacité renforce Sumcash en augmentant le nombre de soutien à la sécurité et assure le maintien de la sécurité sur le long terme.",
     "userGovernanceTitle": "Gouvernance des utilisateurs",

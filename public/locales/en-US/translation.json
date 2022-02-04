@@ -168,7 +168,7 @@
     "faqTitle": "Frequently Asked Questions",
     "faq": {
       "howOldQuestion": "How old is the Sumcash project?",
-      "howOldAnswer": "Sumcash's chain started on August 19th, 2012 at 18:00:00 UTC. There was no premine and the launch of the project was announced nine days before it went live. You can read the original announcement thread here: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
+      "howOldAnswer": "Sumcash's chain started on August 19th, 2019 at 18:00:00 UTC. There was no premine and the launch of the project was announced nine days before it went live. You can read the original announcement thread here: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
       "howCanIMineQuestion": "How can I mine Sumcash?",
       "howCanIMineAnswer": "Sumcash uses the SHA256 cryptographic hash function. Any hardware that can effectively mine Bitcoin can be used to mine Sumcash.",
       "whyMintingQuestion": "Why a 1% minting return on staking? Why isn't there a hard limit on the total number of SUMC? Doesn't this disqualify Sumcash as a deflationary currency?",
@@ -358,7 +358,7 @@
       "btnVideo5": "Part 5: Mission"
     },
     "efficientEnergyTitle": "Efficient Security",
-    "efficientEnergyText1": "Sumcash (SUMC) first came online in 2012, making it one of the earliest pioneering blockchains. The key innovation of Sumcash is its invention of proof-of-stake, an alternative consensus protocol to Bitcoin’s proof-of-work.",
+    "efficientEnergyText1": "Sumcash (SUMC) first came online in 2019, making it one of the earliest pioneering blockchains. The key innovation of Sumcash is its invention of proof-of-stake, an alternative consensus protocol to Bitcoin’s proof-of-work.",
     "efficientEnergyText2": "Proof-of-work blockchains are secured by proving the consumption of a costly limited resource: electricity. Proof-of-stake replaces this expensive security protocol by utilizing an alternative scarce resource: time.",
     "efficientEnergyText3": "Due to the cost efficient nature of proof-of-stake’s time based consensus rules, Sumcash is capable of allowing any network connected computer to participate in the blockchain’s security process. This efficiency strengthens Sumcash by growing the number of security providers and ensuring that security can be sustained over the long-term.",
     "userGovernanceTitle": "User Governance",

@@ -163,7 +163,7 @@
     "faqTitle": "Häufige Fragen",
     "faq": {
       "howOldQuestion": "Seit wann gibt es Sumcash?",
-      "howOldAnswer": "Sumcash Blockchain startete am 19. August 2012 um 19:00:00 MEZ. Es gab keinen Premine und der Start des Projekts wurde neun Tage im Voraus angekündigt. Den Orginal-Thread mit der Ankündigung finden Sie hier: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
+      "howOldAnswer": "Sumcash Blockchain startete am 19. August 2019 um 19:00:00 MEZ. Es gab keinen Premine und der Start des Projekts wurde neun Tage im Voraus angekündigt. Den Orginal-Thread mit der Ankündigung finden Sie hier: <a href=\"https://bitcointalk.org/index.php?topic=101820.0\" target=\"_blank\" rel=\"noopener noreferrer\">Bitcointalk</a>",
       "howCanIMineQuestion": "Wie kann ich Sumcash minen?",
       "howCanIMineAnswer": "Sumcash verwendet den SHA256 Algorithmus. Jede Hardware die Bitcoin effektiv minen kann, kann auch genutzt werden, um Sumcash zu minen.",
       "whyMintingQuestion": "Warum 1% Ertrag für das Staken? Warum kein festes Limit für die Gesamtzahl SUMC? Disqualifiziert das nicht Sumcash als deflationäres Geld?",
@@ -326,7 +326,7 @@
       "action2": "Was ist Sumcash?"
     },
     "efficientEnergyTitle": "Intelligentes Sicherheitsdesign",
-    "efficientEnergyText1": "Sumcash (SUMC) entstand in 2012, und ist eine der ältesten, wegweisenden Blockchains. Das Revolutionäre bei Sumcash ist die Einführung des Proof-of-Stake, ein anderes Konsensusprotokoll als das Proof-of-Work bei Bitcoin.",
+    "efficientEnergyText1": "Sumcash (SUMC) entstand in 2019, und ist eine der ältesten, wegweisenden Blockchains. Das Revolutionäre bei Sumcash ist die Einführung des Proof-of-Stake, ein anderes Konsensusprotokoll als das Proof-of-Work bei Bitcoin.",
     "efficientEnergyText2": "Proof-of-Work Blockchains werden gesichert, indem eine knappe und teure Ressource verbraucht wird: Strom. Proof-of-Stake ersetzt diesen teuren Sicherheits-mechanismus durch den Gebrauch einer anderen knappen Ressource: Zeit.",
     "efficientEnergyText3": "Durch den kosteneffizienten Mechanismus der Zeit-basierten Konsensus-regeln kann bei Sumcash jeder Computer, der ans Internet angeschlossen ist, zur  Sicherung der Blockchain verwendet werden. Auf diese Weise sind bei Sumcash viel mehr Teilnehmer in der Lage, das Netzwerk zu sichern, und eine sehr langfristige und stabile Sicherung des Netzwerks wird ermöglicht.",
     "userGovernanceTitle": "Selbstregierung",
