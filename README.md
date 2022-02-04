@@ -1,15 +1,15 @@
-Sumcash.net Repo
+sumcash.org Repo
 ============
 
-This repo holds the static HTML files for [Sumcash.net](https://sumcash.org).
+This repo holds the static HTML files for [sumcash.org](https://sumcash.org).
 The site is hosted on GitHub itself, via gh-pages.
 
 ### Issues
-Content requests, bug reports, etc. are all handled through [GitHub Issues](https://github.com/sumcash-project/sumcash.net/issues). 
+Content requests, bug reports, etc. are all handled through [GitHub Issues](https://github.com/sumcash-project/sumcash.org/issues). 
 </br> We will try to get to your issue as soon as possible.
 
 ### Pull Requests
-If you have a simple proposed change for the website, we would ask that you create a [pull request](https://github.com/sumcash-project/sumcash.net/pulls) instead of an issue. This includes things like link changes, text errors and other minor cosmetic fixes. 
+If you have a simple proposed change for the website, we would ask that you create a [pull request](https://github.com/sumcash-project/sumcash.org/pulls) instead of an issue. This includes things like link changes, text errors and other minor cosmetic fixes. 
 We can immediately add these to the live site by simply accepting the pull request, which makes everything much easier.
 
 If you aren't familiar with the process for submitting a pull request you might find these guides helpful: 

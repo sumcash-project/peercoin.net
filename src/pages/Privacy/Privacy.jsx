@@ -18,7 +18,7 @@ function Privacy() {
           <p>Last updated: 12/15/2018</p>
           <h2>Links</h2>
           <p>
-            Sumcash.net contains links to external sites. Sumcash is not
+            sumcash.org contains links to external sites. Sumcash is not
             responsible for the content, experience, security, or privacy
             practices of these sites. We encourage users to be aware when they
             leave the site and to read the external website's privacy statements
