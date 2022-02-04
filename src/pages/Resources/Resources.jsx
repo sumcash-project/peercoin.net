@@ -27,19 +27,19 @@ function Resources() {
       .then((jsonData) => {
         setExchanges(jsonData);
       });
-  
+
     fetch("/data/tools.json")
       .then((res) => res.json())
       .then((jsonData) => {
         setTools(jsonData);
       });
-    
+
     fetch("/data/community.json")
       .then((res) => res.json())
       .then((jsonData) => {
         setCommunity(jsonData);
       });
-    
+
     fetch("/data/whitepaper.json")
       .then((res) => res.json())
       .then((jsonData) => {
@@ -181,7 +181,7 @@ function Resources() {
           </div>
         </div>
       </div>
- 
+
       <div className="main">
         <div className="anchor" data-id="blockexplorers"></div>
         <div className="container">
@@ -265,7 +265,7 @@ function Resources() {
         <div className="anchor" data-id="graphics"></div>
         <div className="container">
 
-          
+
           <h2 className="title title--green">
             {t(graphics.title)}
           </h2>
@@ -308,9 +308,9 @@ function Resources() {
             <br />
             <code>#276BCF</code>
             <br />
-            <code>RBG: 60, 176, 84</code>
+            <code>RBG: 39, 107, 207</code>
             <br />
-            <code>CMYK: 66, 0, 52, 31</code>
+            <code>CMYK: 81, 48, 0, 19</code>
           </p>
           <p className="subtitle subtitle--left">
             {t("resourcesPage.brandIdentityFont")}:<br />
